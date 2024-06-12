@@ -12,6 +12,7 @@ public class Sistema {
         int opcao = 0;
         do {
            System.out.println("VocÊ quer jogar?");
+           System.out.println("BATATA COZIDA KKKKKKKKKKKK");
            System.out.println("Digite 1 para SIM");
            System.out.println("Digite 0 para NÃO");
            opcao = sc.nextInt();
